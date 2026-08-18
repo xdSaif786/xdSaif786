@@ -7,7 +7,7 @@ BSc Computer Science student at Keele University (First-Class track) focused on 
 
 ### About Me
 * **Education:** BSc Computer Science, Keele University (Year 2)
-* **Goal:** 2026–2027 Software Engineering / AI & Data Placement
+* **Goal:** 2027/2028 Software / AI Placement, working towards a career in Applied AI. 
 * **Location:** United Kingdom
 
 ### What I'm Working On
