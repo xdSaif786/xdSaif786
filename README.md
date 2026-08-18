@@ -14,6 +14,7 @@ BSc Computer Science student at Keele University (First-Class track) focused on 
 * **Data Analytics Pipelines:** Python & Pandas pipelines processing automotive datasets and calculating performance metrics.
 * **OOP Systems:** Applications and CLI tools built in Java and Python with clean architecture and file I/O handling.
 * **Relational Database Design:** Writing structured SQL queries, designing relational schemas, and managing datasets in MySQL.
+* * **[AI Document Reader](https://github.com/xdSaif786/AI-document-reader):** Streamlit and Gemini API application for parsing PDFs and answering contextual questions.
 
 ### Tech Stack & Tools
 * **Languages:** Python, Java, SQL
