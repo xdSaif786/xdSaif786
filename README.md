@@ -1,16 +1,25 @@
 ## Hi there 👋
+# Saifuddin Mahmood
 
-<!--
-**xdSaif786/xdSaif786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science student at Keele University (First-Class track) focused on Software Engineering and Applied AI. Actively seeking a 2026/2027 Industrial Placement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+* **Education:** BSc Computer Science, Keele University (Year 2)
+* **Goal:** 2026–2027 Software Engineering / AI & Data Placement
+* **Location:** United Kingdom
+
+### What I'm Working On
+* **Data Analytics Pipelines:** Python & Pandas pipelines processing automotive datasets and calculating performance metrics.
+* **OOP Systems:** Applications and CLI tools built in Java and Python with clean architecture and file I/O handling.
+* **Relational Database Design:** Writing structured SQL queries, designing relational schemas, and managing datasets in MySQL.
+
+### Tech Stack & Tools
+* **Languages:** Python, Java, SQL
+* **Libraries & Frameworks:** Pandas, Streamlit, NumPy
+* **Tools & Databases:** Git, GitHub, MySQL, VS Code, IntelliJ IDEA
+
+### Contact
+* **Email:** saifuddinmahmood786@gmail.com
+
