@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Saifuddin Mahmood
 
-BSc Computer Science student at Keele University (First-Class track) focused on Software Engineering and Applied AI. Actively seeking a 2026/2027 Industrial Placement.
+BSc Computer Science student at Keele University (First-Class track) focused on Software Engineering and Applied AI. Actively seeking a 2027/2028 Industrial Placement.
 
 ---
 
